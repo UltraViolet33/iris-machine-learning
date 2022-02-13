@@ -1,4 +1,4 @@
-# Iris-Machine-learning
+# Iris-Machine-Learning
 
 This is a machine learning program to predict the type of iris.
 
